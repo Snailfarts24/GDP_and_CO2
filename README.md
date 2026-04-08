@@ -3,5 +3,4 @@ Relationship between GDP and CO2 levels
 
 This is a commit!
 
-This is also a commit (by Varun)!
-
+Just added the .py file. -Mason
